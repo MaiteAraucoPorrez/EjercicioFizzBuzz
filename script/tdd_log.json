@@ -136,9 +136,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d81773c76cf9e7eb3745480625698fd2d22ab88c",
     "commitName": "feat: Generar fizzbuzz para numeros multiplos de 3 y 5",
     "commitTimestamp": 1787839252203,
     "testId": 4
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1787839479774,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: cambios en presenter.js",
+    "commitTimestamp": 1787839692049,
+    "testId": 5
   }
 ]

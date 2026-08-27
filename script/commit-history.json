@@ -76,17 +76,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d81773c76cf9e7eb3745480625698fd2d22ab88c",
     "author": "Maite Arauco",
     "commit": {
       "date": "2026-08-27T14:00:50.000Z",
       "message": "feat: Generar fizzbuzz para numeros multiplos de 3 y 5",
-      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/HEAD"
+      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/d81773c76cf9e7eb3745480625698fd2d22ab88c"
     },
     "stats": {
       "total": 27,
       "additions": 16,
       "deletions": 11,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maite Arauco",
+    "commit": {
+      "date": "2026-08-27T14:08:10.000Z",
+      "message": "fix: cambios en presenter.js",
+      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 2,
+      "deletions": 1,
       "date": "2026-08-27"
     },
     "coverage": 100,

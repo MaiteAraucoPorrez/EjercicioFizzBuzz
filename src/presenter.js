@@ -1,5 +1,6 @@
-import calcularFizzBuzz from "./fizzbuzz";
+import calcularFizzBuzz from "./fizzbuzz.js";
 
+const form = document.querySelector("#sumar-form");
 const first = document.querySelector("#numero");
 const div = document.querySelector("#resultado-div");
 
