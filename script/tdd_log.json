@@ -92,9 +92,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9f52c50655e409371c5a8754e669db5a9789cfc7",
     "commitName": "feat: Generar fizzbuzz para numeros multiplos de 3",
     "commitTimestamp": 1787838739518,
     "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 2,
+    "numTotalTests": 6,
+    "timestamp": 1787838848163,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787838892249,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Generar fizzbuzz para numeros multiplos de 5",
+    "commitTimestamp": 1787838944058,
+    "testId": 3
   }
 ]

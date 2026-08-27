@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "9f52c50655e409371c5a8754e669db5a9789cfc7",
     "author": "Maite Arauco",
     "commit": {
       "date": "2026-08-27T13:52:18.000Z",
       "message": "feat: Generar fizzbuzz para numeros multiplos de 3",
-      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/HEAD"
+      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/9f52c50655e409371c5a8754e669db5a9789cfc7"
     },
     "stats": {
       "total": 18,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maite Arauco",
+    "commit": {
+      "date": "2026-08-27T13:55:42.000Z",
+      "message": "feat: Generar fizzbuzz para numeros multiplos de 5",
+      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

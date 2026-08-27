@@ -23,3 +23,15 @@ describe("calcularFizzBuzz", () => {
     expect(calcularFizzBuzz(6)).toEqual("Fizz");
   });
 });
+
+describe("calcularFizzBuzz", () => {
+  it("Si el numero es multiplo de 5 deberia devolver Buzz", () => {
+    expect(calcularFizzBuzz(5)).toEqual("Buzz");
+  });
+});
+
+describe("calcularFizzBuzz", () => {
+  it("Si el numero es multiplo de 5 deberia devolver Buzz", () => {
+    expect(calcularFizzBuzz(10)).toEqual("Buzz");
+  });
+});
