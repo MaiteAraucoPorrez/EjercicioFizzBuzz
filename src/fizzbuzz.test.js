@@ -11,3 +11,15 @@ describe("calcularFizzBuzz", () => {
     expect(calcularFizzBuzz(2)).toEqual("2");
   });
 });
+
+describe("calcularFizzBuzz", () => {
+  it("Si el numero es multiplo de 3 deberia devolver Fizz", () => {
+    expect(calcularFizzBuzz(3)).toEqual("Fizz");
+  });
+});
+
+describe("calcularFizzBuzz", () => {
+  it("Si el numero es multiplo de 3 deberia devolver Fizz", () => {
+    expect(calcularFizzBuzz(6)).toEqual("Fizz");
+  });
+});
