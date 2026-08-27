@@ -1,5 +1,5 @@
-function calcularFizzBuzz() {
-  return "1";
+function calcularFizzBuzz(num) {
+  return num.toString();
 }
 
 export default calcularFizzBuzz;

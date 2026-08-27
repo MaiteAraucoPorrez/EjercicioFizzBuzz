@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "fa55e783a306710dbd04a128b724e1253bba4f16",
     "author": "Maite Arauco",
     "commit": {
       "date": "2026-08-27T13:42:44.000Z",
       "message": "feat: Genera fizzbuzz para un numero que no sigue una regla",
-      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/HEAD"
+      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/fa55e783a306710dbd04a128b724e1253bba4f16"
     },
     "stats": {
       "total": 49,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maite Arauco",
+    "commit": {
+      "date": "2026-08-27T13:48:14.000Z",
+      "message": "feat: Generar fizzbuzz para cualquier numero que no sigue la regla",
+      "url": "https://github.com/MaiteAraucoPorrez/EjercicioFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
