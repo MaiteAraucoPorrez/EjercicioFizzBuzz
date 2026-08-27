@@ -1,0 +1,40 @@
+[
+  {
+    "numPassedTests": 0,
+    "failedTests": 1,
+    "numTotalTests": 1,
+    "timestamp": 1787837419588,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 1,
+    "numTotalTests": 1,
+    "timestamp": 1787837543501,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1787837610601,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1787837877442,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Genera fizzbuzz para un numero que no sigue una regla",
+    "commitTimestamp": 1787838166405,
+    "testId": 0
+  }
+]
